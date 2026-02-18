@@ -6,7 +6,7 @@
 
 ## Overview
 
-Before a single verse of [[Revelation]] can be meaningfully understood, something foundational has to be established: **Revelation is the last chapter of a much larger story.** This chapter sets the stage for the entire study by addressing how we approach the Bible, why context is everything, and how Jesus himself modeled the interpretive method we will follow throughout this course.
+Before a single verse of [[Glossary#Revelation|Revelation]] can be meaningfully understood, something foundational has to be established: **Revelation is the last chapter of a much larger story.** This chapter sets the stage for the entire study by addressing how we approach the Bible, why context is everything, and how Jesus himself modeled the interpretive method we will follow throughout this course.
 
 ---
 
@@ -49,12 +49,12 @@ We live in an era of unprecedented noise about biblical prophecy. YouTube channe
 
 This content is not always malicious. But it is almost always **decontextualized** — prophecy stripped of its biblical roots and reattached to current headlines.
 
-Without a solid [[Biblical Worldview]], people are left vulnerable to two things:
+Without a solid [[Glossary#Biblical Worldview|Biblical Worldview]], people are left vulnerable to two things:
 
 1. **Fear** — The world feels out of control, and no framework exists to make sense of it.
 2. **Manipulation** — Without a biblical anchor, people become dependent on whoever is doing the interpreting.
 
-This is not a new problem. Jesus and Paul both warned of it explicitly. The goal of this study is not simply to learn facts about Revelation — it is to build the kind of [[Biblical Worldview]] that makes fear-mongering impotent. When you know what God has already said, you don't need someone to tell you how to feel about what's happening.
+This is not a new problem. Jesus and Paul both warned of it explicitly. The goal of this study is not simply to learn facts about Revelation — it is to build the kind of [[Glossary#Biblical Worldview|Biblical Worldview]] that makes fear-mongering impotent. When you know what God has already said, you don't need someone to tell you how to feel about what's happening.
 
 > **Key Principle:** A biblical worldview is the single best defense against spiritual manipulation and confusion.
 
@@ -62,7 +62,7 @@ This is not a new problem. Jesus and Paul both warned of it explicitly. The goal
 
 ## 4. A Note on Extra-Biblical Literature
 
-At various points in this study, [[Extra-Biblical Literature]] outside the 66 canonical books will be referenced — Jewish texts such as writings found among the Dead Sea Scrolls and other documents from the [[Second Temple Period]].
+At various points in this study, [[Glossary#Extra-Biblical Literature|Extra-Biblical Literature]] outside the 66 canonical books will be referenced — Jewish texts such as writings found among the Dead Sea Scrolls and other documents from the [[Glossary#Second Temple Period|Second Temple Period]].
 
 This does not mean these texts carry the same authority as Scripture. They do not.
 
@@ -82,13 +82,13 @@ To understand why context matters so much, we look at the people who had the *be
 
 Jesus asks his disciples a direct question: *"Who do you say I am?"* (Matthew 16:15).
 
-Peter answers immediately and correctly: *"You are the [[Messiah|Christ]], the Son of the living God"* (v. 16).
+Peter answers immediately and correctly: *"You are the [[Glossary#Messiah|Christ]], the Son of the living God"* (v. 16).
 
 Jesus affirms this as divinely revealed truth — not something Peter deduced on his own. He then tells Peter: *"On this rock I will build my church."* It is important to note that Jesus is not saying the church will be built on Peter the man. He is saying it will be built on the truth Peter just confessed — that Jesus is the Christ, the Son of the living God.
 
-This exchange takes place at [[Caesarea Philippi]] — a location whose significance is explored in the Context notes for this chapter, as the setting itself carries meaning that would not have been lost on those standing there.
+This exchange takes place at [[Glossary#Caesarea Philippi|Caesarea Philippi]] — a location whose significance is explored in the Context notes for this chapter, as the setting itself carries meaning that would not have been lost on those standing there.
 
-Almost immediately, Jesus begins to explain what being the [[Messiah]] actually entails:
+Almost immediately, Jesus begins to explain what being the [[Glossary#Messiah|Messiah]] actually entails:
 
 > *"From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, the chief priests and the teachers of the law, and that he must be killed and on the third day be raised to life."*
 > — Matthew 16:21
@@ -103,7 +103,7 @@ And Jesus responds with equal force: *"Get behind me, Satan! You are a stumbling
 
 This is not a casual rebuke. Jesus is identifying the *source* of Peter's objection — not simple misunderstanding, but the same adversarial dynamic that had confronted him in the wilderness. The mechanism is identical in both cases: **tempting Jesus to bypass the suffering.**
 
-*(The title "[[Son of Man]]" that Jesus uses throughout these passages carries deep theological significance rooted in the book of Daniel. This will be explored in a later session.)*
+*(The title "[[Glossary#Son of Man|Son of Man]]" that Jesus uses throughout these passages carries deep theological significance rooted in the book of Daniel. This will be explored in a later session.)*
 
 ### The Wilderness Temptation: A Recurring Pattern
 
@@ -131,7 +131,7 @@ The comfort is not protection *from* the valley. The comfort is **presence *in* 
 
 Jesus goes on:
 
-> *"For the [[Son of Man]] is going to come in his Father's glory with his angels, and then he will reward each person according to what they have done."*
+> *"For the [[Glossary#Son of Man|Son of Man]] is going to come in his Father's glory with his angels, and then he will reward each person according to what they have done."*
 > — Matthew 16:27
 
 Even before his death, Jesus speaks of his return and the coming kingdom. The inheritance is real — but it is future. What we receive now is something different: **relationship.** The indwelling of the Holy Spirit. A down payment on what is coming. The fullness belongs to the age ahead.
@@ -147,7 +147,7 @@ Two disciples are walking to a village called Emmaus, about seven miles from Jer
 > *"We had hoped that he was the one who was going to redeem Israel."*
 > — Luke 24:21
 
-*We had hoped.* Past tense. Their expectation — shaped by centuries of Jewish tradition — was of a [[Messiah]] who would conquer Rome, restore the Davidic kingdom, and vindicate Israel politically and militarily. Jesus had not done that. In their framework, the crucifixion meant failure.
+*We had hoped.* Past tense. Their expectation — shaped by centuries of Jewish tradition — was of a [[Glossary#Messiah|Messiah]] who would conquer Rome, restore the Davidic kingdom, and vindicate Israel politically and militarily. Jesus had not done that. In their framework, the crucifixion meant failure.
 
 The stranger responds:
 
@@ -159,7 +159,7 @@ And then he does something that becomes the blueprint for this entire study:
 > *"And beginning with Moses and all the Prophets, he explained to them what was said in all the Scriptures concerning himself."*
 > — Luke 24:27
 
-The stranger — who is Jesus, unrecognized — does not give them new revelation. He takes them back through what they already had: the [[Pentateuch|Law of Moses]], the Prophets, the Psalms. And he shows them that **all of it was pointing to him.** Every covenant, every sacrifice, every prophecy, every pattern — all concerning Jesus.
+The stranger — who is Jesus, unrecognized — does not give them new revelation. He takes them back through what they already had: the [[Glossary#Pentateuch|Law of Moses]], the Prophets, the Psalms. And he shows them that **all of it was pointing to him.** Every covenant, every sacrifice, every prophecy, every pattern — all concerning Jesus.
 
 Later, back in Jerusalem, Jesus appears among the gathered disciples and says:
 
@@ -194,7 +194,7 @@ The first and most important posture to bring to this study is **willingness to 
 
 ## 8. The Health, Wealth & Prosperity Gospel: A Critical Assessment
 
-The discussion of suffering makes it necessary to address one of the most widespread distortions of the Gospel in contemporary Christianity — the [[Prosperity Gospel]], or "health, wealth, and prosperity" theology.
+The discussion of suffering makes it necessary to address one of the most widespread distortions of the Gospel in contemporary Christianity — the [[Glossary#Prosperity Gospel|Prosperity Gospel]], or "health, wealth, and prosperity" theology.
 
 The core claim is this: if you become a Christian, faithfully attend church, and give generously, God will bless you with physical health, financial prosperity, and general success in this life.
 
@@ -223,7 +223,7 @@ A distinction emerges naturally from the discussion of suffering that is worth m
 
 **Happiness** is circumstantial. It rises and falls with what happens *to* us — its root in the word *happenstance* is telling. It is temporary by nature, contingent on external conditions.
 
-**[[Joy]]**, in the biblical sense, operates from a different source entirely. Paul writes from prison:
+**[[Glossary#Joy|Joy]]**, in the biblical sense, operates from a different source entirely. Paul writes from prison:
 
 > *"I have learned to be content whatever the circumstances."*
 > — Philippians 4:11
@@ -236,7 +236,7 @@ Paul's imprisonment is itself instructive. The path to his greatest ministry eff
 
 ## 10. What This Study Is About
 
-The goal of this study is not primarily to map the **events** of [[Revelation]]. Timelines of those events are widely available. The sequence can be traced. That is not the hard part.
+The goal of this study is not primarily to map the **events** of [[Glossary#Revelation|Revelation]]. Timelines of those events are widely available. The sequence can be traced. That is not the hard part.
 
 The hard part — and the most important part — is understanding **why.**
 
