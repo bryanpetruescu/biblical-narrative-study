@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Biblical Narrative Study
 ---
 
 # Welcome
@@ -16,7 +16,7 @@ These notes are compiled from a weekly study group and are intended as a referen
 
 Each chapter includes three companion documents: the main teaching notes, a record of questions raised during the session, and supplemental historical and scholarly context. A running [[Glossary]] serves as the single reference point for key terms across the entire study.
 
-If you ever want to come back to this Welcome page, just click on the title in the top left of the page. You can also use the search bar to search for keywords or phrases, and change the theme using the button next to the search bar. 
+If you ever want to come back to this Welcome page, just click on the Home button in the top left of the page. You can also use the search bar to search for keywords or phrases, and change the theme using the button next to the search bar. 
 
 ---
 
