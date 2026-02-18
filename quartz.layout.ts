@@ -6,6 +6,9 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
+  footer: Component.Footer({
+    links: {},
+  }),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -32,6 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.Explorer({ title: "", folderClickBehavior: "link" }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -54,7 +58,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ title: "", folderClickBehavior: "link" }),
   ],
   right: [],
 }
