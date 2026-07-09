@@ -2,6 +2,13 @@
 > — Matthew 24:29–31
 
 ---
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-14.mp3"></audio>
+</figure>
+
+---
 
 ## 1. Three Questions at the Mount of Olives
 

@@ -2,6 +2,13 @@
 > — Romans 11:25–26
 
 ---
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-13.mp3"></audio>
+</figure>
+
+---
 
 ## 1. The Recurring Testimony of Ezekiel
 

@@ -2,6 +2,13 @@
 > — Daniel 2:34–35
 
 ---
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-15.mp3"></audio>
+</figure>
+
+---
 
 ## Overview
 

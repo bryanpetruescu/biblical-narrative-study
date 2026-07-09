@@ -2,6 +2,13 @@
 > — Daniel 10:12–13
 
 ---
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-17.mp3"></audio>
+</figure>
+
+---
 
 ## Overview
 

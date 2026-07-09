@@ -4,7 +4,9 @@
 ---
 ## Audio Version
 
-Coming Soon!
+<figure>
+<audio controls src="/static/audio/chapter-09.mp3"></audio>
+</figure>
 
 ---
 

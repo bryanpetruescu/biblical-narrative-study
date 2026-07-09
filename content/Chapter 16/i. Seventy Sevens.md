@@ -2,6 +2,13 @@
 > — Daniel 9:24
 
 ---
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-16.mp3"></audio>
+</figure>
+
+---
 
 ## Overview
 

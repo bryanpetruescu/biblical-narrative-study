@@ -2,6 +2,13 @@
 > — Romans 11:25–26
 
 ---
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-18.mp3"></audio>
+</figure>
+
+---
 
 ## Overview
 

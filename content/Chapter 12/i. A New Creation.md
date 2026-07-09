@@ -2,6 +2,13 @@
 > — 2 Corinthians 5:17
 
 ---
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-12.mp3"></audio>
+</figure>
+
+---
 
 ## Overview
 

@@ -3,6 +3,13 @@
 > — Luke 4:18–21
 
 ---
+## Audio Version
+
+<figure>
+<audio controls src="/static/audio/chapter-11.mp3"></audio>
+</figure>
+
+---
 
 ## 1. Recap: The Monarchy and the Path to Exile
 
