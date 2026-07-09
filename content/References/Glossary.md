@@ -15,6 +15,7 @@ Two prerequisites have not existed since 70 AD: a standing temple and an active 
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -114,6 +115,7 @@ The Antichrist is not the same as Satan. He is Satan's instrument — a human be
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -230,6 +232,16 @@ This framework is the essential background for reading the entire Old Testament.
 
 ---
 
+## Covenant with Many
+
+The treaty described in Daniel 9:27, confirmed for one "seven" (seven years), which begins the seventieth week of the [[Glossary#Seventy Weeks (Seventy Sevens)|seventy weeks]] and, by extension, the tribulation period. Its confirmation triggers the resumption of Daniel's prophetic clock after the [[Glossary#Time of the Gentiles|time of the Gentiles]]; its midpoint is marked by the [[Glossary#Abomination of Desolation|Abomination of Desolation]], when the [[Glossary#Antichrist|Antichrist]] halts the temple sacrifices the covenant's confirmation is understood to make possible.
+
+The covenant's confirmation may not be a publicly self-evident event — it can be negotiated through channels that don't announce themselves clearly at the time. What follows from it does become visible: a rebuilt temple and resumed sacrifices, both of which are necessary before the Abomination can occur. This is part of why Jesus, in Matthew 24, points his disciples toward the Abomination itself as the identifiable marker to watch for, rather than the covenant.
+
+*First introduced: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+
+---
+
 ## Davidic Covenant
 
 The covenant God makes with King David, recorded in 2 Samuel 7, promising that David's line will produce a son whose throne will be established forever. God says: *"I will establish the throne of his kingdom forever... I will be his father, and he will be my son"* (2 Samuel 7:13–14). Like the Abrahamic Covenant, the Davidic Covenant is unconditional — God promises to maintain the line of David regardless of the failures of individual kings.
@@ -275,6 +287,7 @@ Per 1 Enoch 15, when the bodies of the Nephilim died, their spirits did not depa
 The existence of demons is never argued or defended in the New Testament — it is assumed. Jesus cast them out as a routine feature of his ministry. The disciples did the same. Understanding their origin in the Watchers' rebellion explains their behavior, their targeting of humanity, and the framework within which the New Testament's treatment of spiritual warfare makes sense.
 
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -297,6 +310,7 @@ A theological framework dividing biblical history into distinct "dispensations" 
 Dispensationalism as a formal system was developed in the nineteenth century by John Nelson Darby and codified in the Scofield Reference Bible (1909). It should not be confused with a general recognition that God works differently at different periods in redemptive history — which is simply reading the biblical narrative on its own terms. The distinctive claim of Dispensationalism is a hard structural separation between Israel and the church that the biblical text does not support, and which Paul explicitly argues against in Romans 11 using the olive tree imagery.
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -322,6 +336,7 @@ Deuteronomy 32:8–9 describes the council's most significant organizational rol
 The divine council is not a pantheon of independent deities. It is a governing structure that God created, delegated authority within, and will ultimately judge — as Psalm 82:7 declares: *"You will die like mere men; you will fall like every other ruler."*
 
 *First introduced: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -426,6 +441,7 @@ This also explains why believers are left in the world after coming to faith rat
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -791,6 +807,7 @@ Paul's language in Colossians 2:15 — where he describes Jesus having "disarmed
 
 *First introduced: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -855,6 +872,7 @@ Beyond the theological problem, Replacement Theology carries practical risk. The
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]]*
 *Also relevant: [[i. A New Creation|Chapter 12 — A New Creation]]*
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -937,6 +955,7 @@ The 490 years are structured in three segments. The first forty-nine years (seve
 After the sixty-ninth seven, two events occur outside the timeline: the Anointed One is cut off (the crucifixion), and the city and sanctuary are destroyed by the people of the coming ruler (70 AD). The gap between the sixty-ninth and seventieth weeks is the [[Glossary#Time of the Gentiles|Time of the Gentiles]]. The seventieth week — the final seven years — begins when the [[Glossary#Antichrist|Antichrist]] confirms a covenant with many. Its midpoint is the [[Glossary#Abomination of Desolation|Abomination of Desolation]]. Its end is the destruction of the Antichrist and the beginning of the Millennial Kingdom.
 
 *First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -1043,6 +1062,26 @@ The Table of Nations is not merely a genealogy. It is the list of the peoples as
 
 ---
 
+## The Fall
+
+The event described in Genesis 3 in which Adam and Eve disobeyed God by eating from the Tree of the Knowledge of Good and Evil, resulting in the entry of sin and death into the created order. The Fall is not simply a moral failure — it is the foundational rupture in the relationship between God and humanity and between humanity and the rest of creation.
+
+Its consequences include shame, the breakdown of human relational equality, painful toil, physical death, expulsion from the garden, and the transfer of Adam's governing authority to Satan. Everything that follows in Scripture — every covenant, sacrifice, prophecy, and promise — is a response to what happened in Genesis 3. The Fall did not take God by surprise. The first prophecy in Scripture (Genesis 3:15, the Proto-Evangelium) announces the remedy within the same passage that describes the problem, establishing the pattern the rest of the Bible follows: God speaks redemption into the midst of judgment.
+
+*First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
+
+---
+
+## Third Temple
+
+The temple anticipated by end-times prophecy to be rebuilt on Jerusalem's Temple Mount, enabling the resumption of sacrifice that the [[Glossary#Antichrist|Antichrist]] later interrupts at the [[Glossary#Abomination of Desolation|Abomination of Desolation]]. No such temple currently exists. The Temple Mount has remained under the administration of the Islamic Waqf since 1967, which is the specific present-day obstacle standing between the current situation and the sequence Daniel 9:27 describes.
+
+Anticipation of a rebuilt temple is not exclusive to Christian eschatology — Jewish organizations such as the Temple Institute have spent decades preparing ritual implements toward this end — but its construction is not currently underway or politically feasible under any existing arrangement governing the site.
+
+*First introduced: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+
+---
+
 ## Time of Jacob's Trouble
 
 The phrase drawn from Jeremiah 30:7 — *"How awful that day will be; none will be like it. It will be a time of trouble for Jacob, but he will be saved out of it"* — used in both Jewish and Christian tradition to designate the period of unprecedented tribulation that precedes the final restoration of Israel and the establishment of God's kingdom. In Christian eschatology this period is more commonly known as the Great Tribulation; the "time of Jacob's trouble" is the older Jewish designation for the same event.
@@ -1067,6 +1106,7 @@ The Time of the Gentiles was not an afterthought. Moses wrote that God would mak
 
 *First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+*Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 
 ---
 
@@ -1082,13 +1122,9 @@ The same three-and-a-half-year span recurs throughout biblical prophecy in sever
 
 ---
 
-## The Fall
 
-The event described in Genesis 3 in which Adam and Eve disobeyed God by eating from the Tree of the Knowledge of Good and Evil, resulting in the entry of sin and death into the created order. The Fall is not simply a moral failure — it is the foundational rupture in the relationship between God and humanity and between humanity and the rest of creation.
+---
 
-Its consequences include shame, the breakdown of human relational equality, painful toil, physical death, expulsion from the garden, and the transfer of Adam's governing authority to Satan. Everything that follows in Scripture — every covenant, sacrifice, prophecy, and promise — is a response to what happened in Genesis 3. The Fall did not take God by surprise. The first prophecy in Scripture (Genesis 3:15, the Proto-Evangelium) announces the remedy within the same passage that describes the problem, establishing the pattern the rest of the Bible follows: God speaks redemption into the midst of judgment.
-
-*First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
 
 ---
 
