@@ -9,13 +9,14 @@ The phrase used in Daniel's prophecy (Daniel 9:27, 11:31, 12:11) and quoted dire
 
 The phrase originates in the Hebrew *shiqquts shomem*, carrying the sense of a profanity so extreme that it renders the consecrated space desolate — abandoned by God's presence and unfit for worship. A historical preview of this event occurred in 167 BC when Antiochus IV Epiphanes desecrated the Second Temple by erecting an altar to Zeus on the altar of burnt offering and sacrificing a pig on it. Jesus's reference to a future fulfillment in Matthew 24 indicates that Antiochus's act was typological rather than final. The final Abomination requires someone who exceeds even Antiochus: not merely installing a foreign idol, but standing personally in the temple and claiming to be God.
 
-Two prerequisites have not existed since 70 AD: a standing temple and an active sacrificial system. The final fulfillment cannot occur until both are in place. When the Abomination does occur, Jesus's instruction to those who recognize it is unconditional: flee immediately, without turning back.
+One functional prerequisite has not existed since 70 AD: an active sacrificial system housed in a sanctuary recognized as God's dwelling place. This does not require a rebuilt stone temple on the scale of Solomon's or Herod's — historically, Israel's sacrificial system operated for generations out of the tabernacle, a tent surrounding the altar and the Ark. What is required is a consecrated altar, the purification ashes of a red heifer, and a structure — however modest — to house them, along with the political access to use them. Once those conditions are met, sacrifice could resume within days rather than years. When the Abomination does occur, Jesus's instruction to those who recognize it is unconditional: flee immediately, without turning back.
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -116,6 +117,7 @@ The Antichrist is not the same as Satan. He is Satan's instrument — a human be
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -128,6 +130,7 @@ His campaign against Jewish religious practice was framed as cultural unificatio
 His career is described in extraordinary detail in Daniel 11:21–35 and was recognized as such by Jewish interpreters before the Christian era. Jesus's reference to a future abomination of desolation in Matthew 24:15 establishes that Antiochus's acts were a preview, not the final fulfillment. What Antiochus did to a pagan idol the Antichrist will do in his own person: stand in the temple and declare himself God.
 
 *First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]] — see also [[Chapter 16/iii. Context|Chapter 16 — Context]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -265,6 +268,7 @@ In the New Testament, the Day of the Lord is associated with the return of Jesus
 
 *First introduced: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -311,6 +315,7 @@ Dispensationalism as a formal system was developed in the nineteenth century by 
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -451,9 +456,10 @@ The name used in Ezekiel 38–39 for the leader of the great end-times military 
 
 Gog enters this study through Balaam's third oracle in Numbers 24, where the Septuagint reads the king who will be greater than Agog — with "Agog" widely identified in the first-century Jewish interpretive tradition as Gog, the end-times adversary. The connection signals that even in Moses' time, the figure who would oppose Israel at the end of the age was being anticipated. Jesus — Israel's ultimate king — is the one whose kingdom will surpass and defeat this adversary.
 
-*(The full treatment of Gog, the War of Armageddon, and the relationship of Ezekiel 38–39 to Revelation will be addressed when the study reaches those texts.)*
+The Assyria/Anatolia identification versus the popular Russia identification (with the Rosh/Meshech/Tubal argument briefly summarized), the coalition named in Ezekiel 38 (Persia, Cush, Put, Gomer, Beth-togarmah), the timing of the invasion during Israel's covenant-secured peace, and the stated divine purpose — that the watching nations, not Israel or the Antichrist's own kingdom, are the audience for God's demonstrated holiness.
 
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]] — see also [[Chapter 19/iii. Context|Chapter 19 — Context]]*
 
 ---
 
@@ -492,6 +498,7 @@ Three-and-a-half years, 1260 days, forty-two months, and "time, times, and half 
 The author of the great tribulation is the Antichrist, empowered by Satan after his expulsion from heaven (Revelation 12). This distinguishes it from the [[Glossary#Wrath of God|wrath of God]], which is poured out only by God himself upon those who have hardened themselves against him. The great tribulation is persecution; the wrath of God is judgment. Both are present in the final period, but they are not the same thing and they do not have the same author.
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -547,6 +554,7 @@ Israel sits between them — geographically, economically, and strategically —
 The same language appears in Daniel 11:40–43 in an eschatological context, describing events at "the time of the end." There, the king of the south and the king of the north engage the [[Glossary#Antichrist|Antichrist]] in battle. These are end-times actors in the same geographic region, not the same historical kingdoms — the designations carry forward as geographic and directional references rather than as identifications of the Ptolemaic or Seleucid dynasties specifically.
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -581,6 +589,7 @@ The awaited end-times redeemer of Islamic tradition ("the rightly guided one"), 
 Islamic eschatology is layered: alongside the Mahdi it includes its own deceiver-figure, *al-Masih ad-Dajjal* (the false messiah), and holds that Isa (Jesus) returns to defeat the Dajjal, often acting with the Mahdi. The reading this study advances — that the Mahdi corresponds to the figure the Bible calls the [[Glossary#Antichrist|Antichrist]] — is an interpretive claim built on the observation that the two traditions are structured as near-mirror images: what one awaits as a deliverer, the other warns against. It is recorded here as the study's interpretation, with the accurate note that Islam casts its own antichrist (the Dajjal) as the enemy and Jesus as the one who defeats him.
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -638,6 +647,7 @@ In Daniel 10, Michael comes to Gabriel's aid when Gabriel is detained by the pri
 In Jude 9, Michael is described as contending with the devil over the body of Moses. In Revelation 12:7, he leads the angelic army that defeats the dragon. In 1 Thessalonians 4:16, the voice of an archangel accompanies the return of Christ — a connection Jewish tradition associated with Michael specifically.
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -781,6 +791,7 @@ Its practical danger is not only theological. A church that has been taught it w
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -846,6 +857,16 @@ Matthew 24:31 describes the same event: after the darkening of the sky and the a
 The placement of the rapture within the end-times sequence is not ambiguous in either account. It follows the Abomination of Desolation, the Great Tribulation, and the cosmic signs in the heavens. The gathering occurs when the Lord returns visibly, in the Shekinah glory, with a trumpet call. The teaching that the rapture precedes these events is a later doctrinal development not supported by the sequence the Lord himself describes. See also: [[Glossary#Pre-Tribulation Rapture|Pre-Tribulation Rapture]].
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+
+---
+### Red Heifer
+
+The animal described in Numbers 19 whose ashes, mixed with water, produce the purification required before an Israelite may approach the altar or enter the sanctuary. The heifer must be entirely red, without blemish, and must never have borne a yoke — qualifications rare enough that a genuinely qualifying animal has reportedly not existed, by rabbinic reckoning, since antiquity.
+
+The red heifer functions as a prerequisite step rather than the sacrificial system itself: its ashes purify the priesthood and the people, not the altar or the sanctuary directly, and its production is understood as a necessary precondition for resuming regular sacrifice rather than a sacrifice in its own right. Real-world efforts to locate and certify a qualifying red heifer — including a widely publicized 2022 transfer of candidate animals from Texas to Israel — are addressed in this chapter's Context document, along with the more contested and unsettled status those efforts currently hold.
+
+*First introduced: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]] — see also [[Chapter 19/iii. Context|Chapter 19 — Context]]*
 
 ---
 
@@ -956,6 +977,7 @@ After the sixty-ninth seven, two events occur outside the timeline: the Anointed
 
 *First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -1069,6 +1091,15 @@ The event described in Genesis 3 in which Adam and Eve disobeyed God by eating f
 Its consequences include shame, the breakdown of human relational equality, painful toil, physical death, expulsion from the garden, and the transfer of Adam's governing authority to Satan. Everything that follows in Scripture — every covenant, sacrifice, prophecy, and promise — is a response to what happened in Genesis 3. The Fall did not take God by surprise. The first prophecy in Scripture (Genesis 3:15, the Proto-Evangelium) announces the remedy within the same passage that describes the problem, establishing the pattern the rest of the Bible follows: God speaks redemption into the midst of judgment.
 
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
+
+---
+### The Restrainer
+
+The figure or force identified in 2 Thessalonians 2:6–7 as currently holding back "the secret power of lawlessness" until it is "taken out of the way" — at which point the [[Glossary#Antichrist|man of lawlessness]] is revealed. Paul's Greek shifts between a neuter description (*katechon*, the restraining thing) and a masculine one (*katechōn*, the restraining one) within two verses, which has fueled centuries of debate over the restrainer's identity.
+
+This study identifies the restrainer as Satan's own currently limited authority — restrained from full, unmasked operation until his final expulsion from heavenly access, described in Revelation 12:7–9 and anticipated without explanation in Daniel 12:1, where [[Glossary#Michael|Michael]] "arises" immediately before the [[Glossary#Great Tribulation|great tribulation]] begins. This reading is supported by the passage's own immediate context, which concerns Satan operating in secret rather than any withdrawal of the Holy Spirit. The competing identification of the restrainer with the Holy Spirit — whose presence is said to require the church's prior removal from earth — is foundational to the [[Glossary#Pre-Tribulation Rapture|pre-tribulation rapture]] position, but requires reading the restrainer's removal as the Spirit's removal rather than Satan's, a move this study does not find supported by the passage's context.
+
+*First introduced: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
@@ -1205,6 +1236,7 @@ The distinction matters for understanding the end-times sequence. The [[Glossary
 Paul's statement in 1 Thessalonians 5:9 — "God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ" — is a statement about the church's protection from this divine judgment, not from tribulation or suffering generally. The church is not exempt from hardship. It is exempt from condemnation.
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+*Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 
 ---
 
