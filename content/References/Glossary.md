@@ -81,6 +81,7 @@ The first and last letters of the Greek alphabet, used by Jesus in Revelation 22
 The significance goes deeper than simply being present at the start and finish of history. Because Jesus is eternal and has no beginning of his own, the title is a statement about the *story* rather than about his personal existence. He is the Alpha and Omega of creation and of redemption — everything begins with him, and everything finds its resolution in him. The Parable of the Wheat and Weeds gives the same truth in narrative form: he is the one who sowed the good seed at the beginning and the one who sends the harvesters at the end. The whole field belongs to him.
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
+*Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 
 ---
 
@@ -101,6 +102,17 @@ The title given to God the Father in the throne-room vision of Daniel 7:9–10, 
 The phrase (Aramaic *attiq yomin*) evokes God's eternity and his standing as the supreme judge over the rise and fall of nations. The vision's imagery deliberately echoes Ezekiel's throne vision in Ezekiel 1, with its wheels and fire, and is taken up again in the Revelation throne scenes, where the same eternal, fiery glory surrounds the one seated in judgment. The significance for this study is twofold: it establishes that the parade of beastly empires unfolds under the gaze of a seated, sovereign judge, and it sets the stage for the [[Glossary#Son of Man|Son of Man]], who approaches the Ancient of Days to receive an everlasting kingdom.
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+
+---
+
+## Angels of the Churches
+
+The seven angelic beings referenced in Revelation 1:20, symbolized by the seven stars held in Christ's right hand, each assigned to one of the seven churches of Asia. The Greek term (*angelos*, messenger) is the same word used earlier in the same chapter for the angel who mediated John's entire vision — an unambiguously angelic figure — which is the basis for reading these as actual angelic beings rather than the human pastors or bishops of each congregation, an alternate reading held by some interpreters.
+
+The concept extends the [[Glossary#Divine Council|divine council]] framework established earlier in this study into the New Testament church. Just as spiritual authorities were assigned over the nations at Babel, and angelic beings such as [[Glossary#Gabriel|Gabriel]] and [[Glossary#Michael|Michael]] are shown in Daniel actively contending on Israel's behalf against the powers assigned over Persia and Greece, the church has its own angelic guardianship operating in the spiritual realm — strengthening its witness and leadership without granting it authority over earthly nations or governments.
+
+*First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 
 ---
 
@@ -222,6 +234,7 @@ Christophanies matter for this study because they establish Jesus not as a New T
 
 *First introduced: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]] — see also [[Chapter 02/iii. Context|Chapter 02 - Context]]*
 *Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+*Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 
 ---
 
@@ -342,6 +355,17 @@ The divine council is not a pantheon of independent deities. It is a governing s
 
 *First introduced: [[i. The Divine Council and the Seventy Nations|Chapter 06 - The Divine Council and the Seventy Nations]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+
+---
+
+## Domitian
+
+Roman emperor who reigned from AD 81 to 96, during whose rule — most likely around AD 90–95 — the apostle John was exiled to the island of [[Glossary#Patmos|Patmos]] and there received the vision recorded in the book of Revelation. The dating rests on the combined testimony of archaeological evidence for John's exile on Patmos and the witness of the early church fathers, most significantly Irenaeus, who had a direct line of connection to John through his teacher Polycarp.
+
+The dating matters interpretively: a reign under Domitian places Revelation's composition roughly two decades after the destruction of Jerusalem and the Second Temple in AD 70, meaning John writes with no temple standing, no sacrificial system in operation, and no regathering of the Jewish people yet underway — the conditions this study understands as necessary prerequisites for the Lord's return.
+
+*First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 
 ---
 
@@ -558,6 +582,16 @@ The same language appears in Daniel 11:40–43 in an eschatological context, des
 
 ---
 
+## Lampstand (Menorah)
+
+The image, drawn from the Old Testament tabernacle furnishing and most directly from Zechariah 4's vision of a golden lampstand fed by oil through pipes to seven lamps, that Revelation applies to the seven churches themselves (Revelation 1:20). A lampstand's entire function is to hold and channel oil so that light is produced — the oil representing the source, and the light representing the resulting presence of God made visible through the church.
+
+Christ is described walking among the lampstands (Revelation 1:13, 2:1), an image recalling God walking with Adam in the garden — a statement of his active, personal presence among his churches rather than distant oversight. The image carries its full weight in the letter to Ephesus, where Christ warns that an unrepentant church risks having its lampstand removed: a church that no longer produces the light of God's presence, regardless of its doctrine or discernment, has become useless for the purpose a lampstand exists to serve.
+
+*First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+
+---
+
 ## Logos
 
 The Greek term translated "Word" in John 1:1 — *"In the beginning was the Word **Logos**, and the Word was with God, and the Word was God."* John's use of *Logos* was deliberate and layered, written to resonate with both Greek philosophical readers and Jewish readers steeped in Old Testament wisdom tradition.
@@ -739,6 +773,16 @@ The concept connects directly to what Jesus describes in John 3 as being born ag
 
 ---
 
+## Nicolaitans
+
+A group referenced in Revelation 2:6 and 2:15, whose practices Christ commends the church at Ephesus for rejecting and explicitly condemns in the letter to Pergamum. Their teaching is best reconstructed as a form of Greek philosophical dualism, common in the Hellenistic culture of Roman Asia Minor, holding that nothing done in the physical body could corrupt the spiritual self. In practice, this functioned as license to participate freely in pagan temple worship and sexual immorality on the theory that the physical world had no bearing on one's spiritual standing.
+
+The Nicolaitans represent one of two opposite failure modes visible within the letter to Ephesus: a church that rightly rejected this license but, in the process of vigilant discernment against it, forsook the love that should have anchored that discernment. Revelation 2:14 explicitly connects Nicolaitan teaching to the Old Testament figure of [[Glossary#Balaam|Balaam]], a connection this study will explore further when it reaches the letter to Pergamum.
+
+*First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+
+---
+
 ## Noahic Covenant
 
 The unconditional covenant God establishes with Noah, his descendants, and all living creatures in Genesis 9:1–17 following the flood. It is the first unconditional covenant in Scripture — placing no obligations on the human party and carrying no conditionality. God commits unilaterally: he will never again destroy all life by flood. Nothing Noah or his descendants do can invalidate it.
@@ -760,6 +804,14 @@ The Passover is one of the most structurally precise typological previews of the
 The Passover also marks the beginning of the Israelite religious calendar — Exodus 12:2 designates its month as the first month of the year. It is not simply the founding event of the nation. It is the event around which all of Israel's subsequent time is oriented.
 
 *First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
+
+---
+
+## Patmos
+
+A small island in the Aegean Sea, off the southeastern coast of present-day Turkey, to which the apostle John was exiled — most likely under the emperor [[Glossary#Domitian|Domitian]] — and where he received the vision recorded in the book of Revelation (Revelation 1:9). John identifies his presence there as being "because of the word of God and the testimony of Jesus," almost certainly connected to a refusal to participate in the emperor worship increasingly demanded during this period.
+
+*First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 
 ---
 
@@ -916,6 +968,7 @@ The final book of the Christian canon, and the destination of this study. A prop
 Revelation is written in a genre called *apocalyptic literature*, which uses vivid symbolic imagery to communicate spiritual and cosmic realities. Its symbols and figures are almost entirely drawn from earlier Old Testament texts — particularly Daniel, Ezekiel, Isaiah, and Zechariah. This means Revelation cannot be read in isolation; it is the final chapter of a story that must be understood from the beginning to be read correctly.
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+*Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 
 ---
 
@@ -964,6 +1017,26 @@ The servant in these passages is characterized by a distinctive combination of q
 The New Testament consistently reads the Servant Songs as fulfilled in Jesus — a reading Jesus himself initiates in Luke 4 and develops in his self-identification with the songs' imagery throughout his ministry. Isaiah 53 is quoted or referenced more times in the New Testament than almost any other Old Testament passage.
 
 *First introduced: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]] — see also [[Chapter 11/iii. Context|Chapter 11 - Context]]*
+
+---
+
+## Seven Churches of Asia
+
+The seven congregations named in Revelation 1:11 — Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea — located in the Roman province of Asia, in what is now western Turkey, and addressed by name in Revelation 2–3. Listed in the order they appear, the seven trace a roughly circular route corresponding to an actual Roman road system, the practical circuit a single letter or messenger would follow to reach all seven cities in turn.
+
+Each church is real and historically specific — not a prediction of a future congregation — yet each letter closes with the refrain "whoever has ears, let them hear what the Spirit says to the churches," signaling that the message to each specific congregation carries universal application to the church of every age, in the same way Paul's letters to specific first-century congregations are read as Scripture by the church broadly. The region these seven churches occupy overlaps with the territory this study identifies as the future seat of the [[Glossary#Antichrist|Antichrist]]'s kingdom.
+
+*First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+
+---
+
+## Sevenfold Spirit (Seven Spirits of God)
+
+The description of the Holy Spirit in Revelation 1:4 as "the seven spirits before his throne" — language that recurs at several later points in Revelation (3:1, 4:5, 5:6). The Greek grammar allows a reading of either seven distinct spirits or a single spirit described sevenfold; this study holds the latter, understanding the phrase as a description of the Holy Spirit's fullness and completeness rather than a count of separate beings, consistent with the number seven's broader role throughout the study as the number of completion.
+
+The most commonly cited Old Testament background is Isaiah 11:2, which describes the Spirit resting on the coming messianic king through a sevenfold description of his character — wisdom, understanding, counsel, might, and the knowledge and fear of the Lord. Revelation 1:4 places this description of the Spirit directly alongside descriptions of the Father and the Son in a single greeting, forming one of the most compressed Trinitarian statements in Scripture.
+
+*First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 
 ---
 
@@ -1057,6 +1130,7 @@ When Jesus called himself the Son of Man, he was drawing on both layers simultan
 *Also relevant: [[i. The Jacket Cover|Chapter 02 - The Jacket Cover]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 
 ---
 
