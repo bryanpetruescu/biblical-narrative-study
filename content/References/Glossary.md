@@ -113,6 +113,7 @@ The seven angelic beings referenced in Revelation 1:20, symbolized by the seven 
 The concept extends the [[Glossary#Divine Council|divine council]] framework established earlier in this study into the New Testament church. Just as spiritual authorities were assigned over the nations at Babel, and angelic beings such as [[Glossary#Gabriel|Gabriel]] and [[Glossary#Michael|Michael]] are shown in Daniel actively contending on Israel's behalf against the powers assigned over Persia and Greece, the church has its own angelic guardianship operating in the spiritual realm — strengthening its witness and leadership without granting it authority over earthly nations or governments.
 
 *First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -143,6 +144,7 @@ His career is described in extraordinary detail in Daniel 11:21–35 and was rec
 
 *First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]] — see also [[Chapter 16/iii. Context|Chapter 16 — Context]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -178,6 +180,7 @@ Balaam's third oracle identifies Israel's future king as greater than Agog — a
 Balaam's subsequent history is complicated. Numbers 31:16 and Revelation 2:14 indicate that he later advised the Midianites on how to lead Israel into sexual immorality and idolatry — a strategy that succeeded where direct cursing had failed. He is therefore a figure held in deep ambivalence in both Jewish and Christian tradition: an authentic conduit of genuine prophecy who nonetheless later acted against the people of God.
 
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -211,6 +214,16 @@ The book is bilingual: Hebrew in 1:1–2:4a and chapters 8–12, and Aramaic in 
 Daniel's placement in the East carries a long significance for this study. As chief over the wise men of Babylon and a high official under Medo-Persia, his influence shaped the scholarly tradition later called the *magi* — the most economical explanation for why wise men from the East would come centuries later seeking a king of the Jews and know what sign to watch for.
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+
+---
+
+## Book of Life
+
+The registry, referenced across both Old and New Testaments (Exodus 32:32–33, Psalm 69:28, Daniel 12:1, Philippians 4:3, Revelation 3:5, 13:8, 20:12–15, 21:27), of those who belong to God. In the letter to Sardis, Christ promises the one who overcomes that he will "never blot out his name from the book of life, but will acknowledge his name before my Father and his angels" — language that ties directly to Jesus's own statement in Matthew 10:32–33 about acknowledging before the Father those who acknowledge him before others.
+
+The book of life recurs at the final judgment in Revelation 20:12–15, where it functions as the deciding record of who is spared the second death. Its presence throughout Scripture as a fixed, real record — rather than a figure of speech — underlines a recurring theme in the letters to the seven churches: that a person's standing before God is a settled, individual matter, not something contingent on the behavior of the community around them.
+
+*First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -523,6 +536,7 @@ The author of the great tribulation is the Antichrist, empowered by Satan after 
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -533,6 +547,16 @@ The eight-day Jewish festival commemorating the rededication of the Jerusalem te
 The miracle at the center of the celebration is that oil sufficient for only one day of burning in the temple menorah burned continuously for eight days — the time required to prepare a new supply of ritually pure oil. This is the basis for the festival's eight-day duration and the lighting of the Hanukkiah (the eight-branched menorah). Hanukkah is mentioned in John 10:22, which records Jesus walking in the temple portico during the Feast of Dedication — indicating that he was in Jerusalem for the celebration and that the question of the consecration of sacred space was live in the minds of those who approached him there.
 
 *First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+
+---
+
+## Hour of Trial
+
+The phrase from Revelation 3:10, in the letter to the church at Philadelphia: "Since you have kept my command to endure patiently, I will also keep you from the hour of trial that is going to come upon the whole world to test those who live on the earth." The verse is one of the most frequently cited proof texts for a pre-tribulation rapture — the position that the church will be removed from the earth entirely before any tribulation period begins.
+
+This study holds that the verse cannot bear that weight. It contains no timing markers relative to any other event, and the Greek preposition rendered "from" is genuinely ambiguous in this construction, capable of meaning either kept away from or kept safely through — context alone would have to decide which, and this verse supplies almost none. Set against passages that are explicit and repeated — Daniel, Matthew 24, and 1 and 2 Thessalonians all describing the church's presence through the tribulation and Christ's return for the church in the midst of it rather than before it — a single ambiguous sentence cannot be read in a way that overturns what Scripture states plainly elsewhere.
+
+*First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -556,6 +580,17 @@ In this study, the historical caliphate — and its anticipated revival — is t
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+
+---
+
+## Jezebel (Thyatira)
+
+The name Christ applies, in the letter to the church at Thyatira (Revelation 2:20–23), to a woman within the congregation who "calls herself a prophetess" and teaches believers into sexual immorality and the eating of food sacrificed to idols — the same corrupting pattern associated with [[Glossary#Balaam|Balaam]] in the letter to Pergamum, now embodied in a single figure claiming prophetic authority from within the church itself.
+
+The name deliberately recalls the Old Testament Jezebel, the Phoenician wife of King Ahab of Israel (1 Kings 16–21), who promoted Baal worship throughout the northern kingdom and persecuted the prophets of Yahweh. Whether "Jezebel" in Revelation 2 names an actual individual or functions as a typological label for a movement or teaching within the congregation is debated; either way, the letter is precise about who bears responsibility — Christ disciplines Jezebel and those who follow her teaching directly, while extending no further burden to the rest of the congregation, illustrating that corporate address and individual accountability operate as distinct categories within these letters.
+
+*First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -579,6 +614,7 @@ The same language appears in Daniel 11:40–43 in an eschatological context, des
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -589,6 +625,7 @@ The image, drawn from the Old Testament tabernacle furnishing and most directly 
 Christ is described walking among the lampstands (Revelation 1:13, 2:1), an image recalling God walking with Adam in the garden — a statement of his active, personal presence among his churches rather than distant oversight. The image carries its full weight in the letter to Ephesus, where Christ warns that an unrepentant church risks having its lampstand removed: a church that no longer produces the light of God's presence, regardless of its doctrine or discernment, has become useless for the purpose a lampstand exists to serve.
 
 *First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -682,6 +719,7 @@ In Jude 9, Michael is described as contending with the devil over the body of Mo
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -712,6 +750,16 @@ Second, at its southern base lies Caesarea Philippi, where Jesus chose to ask hi
 Third, the Transfiguration — in which Jesus revealed himself in full divine glory to Peter, James, and John, with the Father's voice declaring his identity from a cloud — took place on the summit of this same mountain. On the site of the Watchers' rebellion, Jesus showed himself to be God.
 
 *First introduced: [[i. 1 Enoch — A Quick Glance|Chapter 05 - 1 Enoch — A Quick Glance]]*
+
+---
+
+## Morning Star
+
+A title Christ applies directly to himself in Revelation 22:16: "I am the root and the offspring of David, and the bright morning star." The same title appears earlier as part of the promise to the overcomer in the letter to Thyatira (Revelation 2:28) — "I will also give him the morning star" — read in light of 22:16 as Christ promising the overcomer nothing less than himself, in intimate relationship, rather than merely a position or reward.
+
+The image draws on the visible morning star (the planet Venus, seen just before sunrise) as the first light that announces the coming of day — fitting imagery for a title tied to Christ's role as the one whose arrival ends the long night of the present age. Balaam's fourth oracle in Numbers 24:17 — "a star will come out of Jacob" — is widely read by Jewish and Christian interpreters alike as an early messianic anticipation of this same imagery.
+
+*First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -780,6 +828,7 @@ A group referenced in Revelation 2:6 and 2:15, whose practices Christ commends t
 The Nicolaitans represent one of two opposite failure modes visible within the letter to Ephesus: a church that rightly rejected this license but, in the process of vigilant discernment against it, forsook the love that should have anchored that discernment. Revelation 2:14 explicitly connects Nicolaitan teaching to the Old Testament figure of [[Glossary#Balaam|Balaam]], a connection this study will explore further when it reaches the letter to Pergamum.
 
 *First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -844,6 +893,7 @@ Its practical danger is not only theological. A church that has been taught it w
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]] — see also [[Chapter 14/iii. Context|Chapter 14 — Context]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -995,6 +1045,16 @@ The motif runs throughout Scripture — the unformed deep of Genesis 1:2, the ch
 
 ---
 
+## Second Death
+
+The phrase used in Revelation 2:11, 20:6, 20:14, and 21:8 for final, eternal separation from God — distinct from ordinary physical death, which every person experiences regardless of their standing before God. In the letter to Smyrna, Christ promises that "he who overcomes will not be hurt at all by the second death," a promise made to a congregation Christ has just told to expect literal persecution, imprisonment, and in some cases physical death.
+
+The distinction matters for how the letter's promise functions: Christ is not promising the Smyrnan believers protection from physical suffering or death — he explicitly tells them to expect it — but assurance that whatever they face physically, it cannot touch their ultimate standing with God. Revelation 20:14 later identifies the second death explicitly with "the lake of fire," the final judgment reserved for those whose names are not found in the [[Glossary#Book of Life|book of life]].
+
+*First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+
+---
+
 ## Seleucid Empire
 
 One of the four successor kingdoms of [[Glossary#Alexander the Great|Alexander the Great]], founded by Seleucus I Nicator after the fragmentation of the empire following Alexander's death in 323 BC. The Seleucid Empire controlled Syria, Mesopotamia, and significant portions of Asia Minor, Persia, and the northern Middle East — with its primary capital at Antioch on the Orontes (near the present-day Syrian-Turkish border) and a secondary capital at Seleucia on the Tigris.
@@ -1004,6 +1064,7 @@ In Daniel's prophetic framework, the Seleucid Empire is the "king of the North" 
 The geographic region of the Seleucid Empire — present-day Turkey and northern Syria — is the area identified across Daniel, and consistent with Isaiah's use of "the Assyrian" as a title for the end-times enemy, as the origin point of the final [[Glossary#Antichrist|Antichrist]] power. The northern Seleucid kingdom is the seed from which that final empire grows.
 
 *First introduced: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]] — see also [[Chapter 16/iii. Context|Chapter 16 — Context]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -1027,6 +1088,7 @@ The seven congregations named in Revelation 1:11 — Ephesus, Smyrna, Pergamum, 
 Each church is real and historically specific — not a prediction of a future congregation — yet each letter closes with the refrain "whoever has ears, let them hear what the Spirit says to the churches," signaling that the message to each specific congregation carries universal application to the church of every age, in the same way Paul's letters to specific first-century congregations are read as Scripture by the church broadly. The region these seven churches occupy overlaps with the territory this study identifies as the future seat of the [[Glossary#Antichrist|Antichrist]]'s kingdom.
 
 *First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
@@ -1146,6 +1208,16 @@ The letter to the Hebrews treats the entire Tabernacle structure as a "shadow of
 
 ---
 
+## Synagogue of Satan
+
+A phrase used in both the letters to Smyrna (Revelation 2:9) and Philadelphia (Revelation 3:9) to describe a group "who say they are Jews and are not, but are liars" and who are actively persecuting or slandering the church in each city. No functioning synagogue is documented in Smyrna at the time of writing, which leaves the reference's precise historical referent unresolved — it may point to conflict already past, to something not yet fully resolved when John writes, or both.
+
+The underlying conflict tracks with a dispute Paul addresses repeatedly in his letters: Jewish communities in the diaspora insisting that Gentile believers in Christ needed to adopt the full requirements of Mosaic law to be considered legitimate. Synagogue membership carried real legal advantages under Roman law — exemption from participation in emperor worship and pagan civic religion that was otherwise mandatory — protections the young churches in these same cities did not share, which may explain why this particular conflict generated enough hostility to be singled out by name in two of the seven letters.
+
+*First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+
+---
+
 ## Table of Nations
 
 The genealogical record in Genesis 10 listing the descendants of Shem, Ham, and Japheth who spread across the earth after the flood. The total count of distinct named peoples is seventy — a number of structural significance in the biblical narrative, corresponding to the seventy sons of God assigned governance of the nations in Deuteronomy 32:8.
@@ -1184,6 +1256,16 @@ The temple anticipated by end-times prophecy to be rebuilt on Jerusalem's Temple
 Anticipation of a rebuilt temple is not exclusive to Christian eschatology — Jewish organizations such as the Temple Institute have spent decades preparing ritual implements toward this end — but its construction is not currently underway or politically feasible under any existing arrangement governing the site.
 
 *First introduced: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+
+---
+
+## Throne of Satan (Pergamum)
+
+The description in Revelation 2:13 of Pergamum as the city "where Satan has his throne" and "where Satan lives" — language most plausibly tied to the Great Altar of Zeus, a monumental structure built into the city's acropolis in the second century BC whose stepped, colonnaded platform gave it the visual character of an elevated throne overlooking the city. Pergamum was also an early center of Roman emperor worship in the province of Asia, reinforcing the city's association with rival claims to divine authority.
+
+The identification carries forward this study's broader argument connecting the region of present-day Turkey — the territory of the ancient [[Glossary#Seleucid Empire|Seleucid Empire]] — to the future geographic origin of the [[Glossary#Antichrist|Antichrist]]'s kingdom. The god enthroned at Pergamum, Zeus, is the same god [[Glossary#Antiochus IV Epiphanes|Antiochus IV Epiphanes]] installed as an idol in the Jerusalem temple during its desecration in 167 BC — a historical type of the self-deifying claim the Antichrist will make in his own person rather than through an idol.
+
+*First introduced: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
 
 ---
 
