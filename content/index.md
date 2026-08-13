@@ -44,6 +44,7 @@ If you ever want to come back to this Welcome page, just click on the Home butto
 - [[i. No Wiggle Room|19) No Wiggle Room]] — *The full seven-year timeline confirmed across Daniel, Jesus, and Paul — the Antichrist's consolidating wars, the tribulation/wrath distinction, 2 Thessalonians 2's case against a secret rapture, and the War of Gog and Magog — closing every loop before the study crosses into Revelation*
 - [[i. Walking Among the Lampstands|20) Walking Among the Lampstands]] — *Revelation 1 opens as a self-revelation of Christ rather than a catalog of events — his Trinitarian greeting, his fusion with Daniel's Ancient of Days, and his presence among the lampstands — before the first letter, to Ephesus, warns that even sound doctrine and tireless discernment mean nothing without love*
 - [[i. To Him Who Overcomes|21) To Him Who Overcomes]] — *The six remaining letters to the churches of Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea, and the refrain running under all seven — the church is addressed corporately, but every promise Christ makes belongs to the individual who overcomes*
+- [[i. Worthy Is the Lamb|22) Worthy Is the Lamb]] — *John is caught up into the throne room of heaven, where a sealed scroll — the title deed to creation, lost at the Fall — is found, and only the Lion of the Tribe of Judah, the Root of David, is worthy to open it*
 
 ### References
 - [[Glossary]] — *Key terms defined and cross-referenced across the study*

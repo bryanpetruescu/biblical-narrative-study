@@ -237,6 +237,14 @@ Jesus chose this location to ask *"Who do you say I am?"*, receive Peter's confe
 
 ---
 
+## Cherubim
+
+A class of angelic being associated in Scripture with guarding sacred space and standing in closest proximity to God's own presence. Cherubim guard the entrance to Eden after the expulsion of Adam and Eve (Genesis 3:24), form the throne imagery of the mercy seat atop the Ark of the Covenant (Exodus 25:18–20), and appear as the four living creatures surrounding God's throne in both Ezekiel's and John's visions (Ezekiel 1; Revelation 4:6–8). Satan himself is identified elsewhere in Scripture as a guardian cherub prior to his corruption (Ezekiel 28:14–16), which places him within this same category of angelic being before his rebellion. Very little else about the nature or full function of cherubim is directly revealed in Scripture.
+
+*First introduced: [[i. Worthy Is the Lamb|Chapter 22 - Worthy Is the Lamb]]*
+
+---
+
 ## Christophany
 
 From the Greek *Christos* ("Christ") and *phaino* ("to appear") — a visible appearance of the pre-incarnate Jesus in the Old Testament, before the Incarnation at Bethlehem. These are occasions when the second person of the Trinity took on some perceptible form and made himself present to a human being in order to reveal the Father.
@@ -626,6 +634,14 @@ Christ is described walking among the lampstands (Revelation 1:13, 2:1), an imag
 
 *First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+
+---
+
+## Lion of the Tribe of Judah
+
+A messianic title applied to Jesus in Revelation 5:5, drawn from Jacob's blessing over his son Judah in Genesis 49:9–10, which identifies Judah's line as the source of Israel's kingship until "he to whom it belongs shall come." The title is paired in the same verse with "the Root of David," drawn from Isaiah 11:1 and 10, which identifies the Messiah as both descendant and source of David's royal line. Together the titles establish Jesus' qualification — by lineage and by royal authority — to open the sealed scroll, alongside his defeat of death as the substantive basis for that authority.
+
+*First introduced: [[i. Worthy Is the Lamb|Chapter 22 - Worthy Is the Lamb]]*
 
 ---
 
@@ -1099,6 +1115,7 @@ The description of the Holy Spirit in Revelation 1:4 as "the seven spirits befor
 The most commonly cited Old Testament background is Isaiah 11:2, which describes the Spirit resting on the coming messianic king through a sevenfold description of his character — wisdom, understanding, counsel, might, and the knowledge and fear of the Lord. Revelation 1:4 places this description of the Spirit directly alongside descriptions of the Father and the Son in a single greeting, forming one of the most compressed Trinitarian statements in Scripture.
 
 *First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
+*Also relevant: [[i. Worthy Is the Lamb|Chapter 22 - Worthy Is the Lamb]]*
 
 ---
 
@@ -1309,9 +1326,11 @@ The same three-and-a-half-year span recurs throughout biblical prophecy in sever
 
 ---
 
+## Title Deed to Creation
 
----
+A description of the sealed scroll in Revelation 5:1–5 — a legal document held in God's right hand, written on both sides and sealed with seven seals, which no one in heaven, on earth, or under the earth is found worthy to open. The scroll represents the dominion over the earth and over mankind that Adam surrendered to Satan at the Fall. Because Satan's claim to that dominion runs through death — the consequence sin introduced — only someone who has genuinely defeated death is qualified to reclaim what was lost. Jesus alone meets that qualification, having been slain and risen, which is why he alone is found worthy to break the seals and open the scroll (Revelation 5:5–9).
 
+*First introduced: [[i. Worthy Is the Lamb|Chapter 22 - Worthy Is the Lamb]]*
 
 ---
 
@@ -1352,6 +1371,14 @@ Recognizing typological patterns does not reduce the Old Testament figures to me
 *First introduced: [[i. The Abrahamic Covenant|Chapter 08 - The Abrahamic Covenant]] — see also [[Chapter 08/iii. Context|Chapter 08 - Context]]*
 *Also relevant: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
+
+---
+
+## Twenty-Four Elders
+
+Twenty-four figures seated on thrones surrounding the throne of God in Revelation 4:4, dressed in white and wearing crowns of gold, who fall down in worship before God and later before the Lamb, laying their crowns down as an act of submission. Their identity is not stated explicitly in the text; one common reading proposes that they represent the twelve tribes of Israel and the twelve apostles combined, though Scripture does not confirm this directly. What the text does establish is their function: they hold a governing role symbolized by their thrones and crowns, and their unbroken loyalty and worship distinguish them from the portion of the divine council that will later be described in open rebellion against God.
+
+*First introduced: [[i. Worthy Is the Lamb|Chapter 22 - Worthy Is the Lamb]]*
 
 ---
 
