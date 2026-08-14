@@ -1,7 +1,16 @@
 {
   "name": "biblical-narrative-study",
   "compatibility_date": "2026-08-13",
+  "main": "src/index.js",
   "assets": {
-    "directory": "./public"
-  }
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": ["/static/audio/*"]
+  },
+  "r2_buckets": [
+    {
+      "binding": "AUDIO",
+      "bucket_name": "bns-audio"
+    }
+  ]
 }
