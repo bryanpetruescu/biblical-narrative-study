@@ -27,20 +27,3 @@ export default {
     return env.ASSETS.fetch(request);
   },
 };
-
-Replace wrangler.jsonc with:
-{
-  "name": "biblical-narrative-study",
-  "compatibility_date": "2026-08-13",
-  "main": "src/index.js",
-  "assets": {
-    "directory": "./public",
-    "binding": "ASSETS"
-  },
-  "r2_buckets": [
-    {
-      "binding": "AUDIO",
-      "bucket_name": "bns-audio"
-    }
-  ]
-}
