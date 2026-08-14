@@ -13,10 +13,4 @@
       "bucket_name": "bns-audio"
     }
   ]
-}{
-  "name": "biblical-narrative-study",
-  "compatibility_date": "2026-08-13",
-  "assets": {
-    "directory": "./public"
-  }
 }
