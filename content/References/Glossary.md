@@ -3,6 +3,20 @@
 
 ---
 
+## 144,000
+
+The group sealed on their foreheads in Revelation 7:1–8 — twelve thousand from each of the twelve tribes of Israel — before the four angels are released to harm the land, the sea, and the trees. The sealing occurs in the interval between the sixth and seventh seals, immediately before the [[Glossary#Wrath of God|wrath of God]] begins.
+
+They are ethnic Jews and not members of the church. The reasoning is structural: if they had received Christ before the gathering of the church, they would have been gathered with it. They remain on the earth, which means they had not yet believed at that point. They believe later, when they see the Lamb.
+
+Revelation 14:1–5 completes the portrait. They stand with the Lamb on Mount Zion bearing his name and the Father's name on their foreheads. They sing a new song no one else can learn. They did not defile themselves with women; they follow the Lamb wherever he goes; they were purchased from among men and offered as [[Glossary#First Fruits|first fruits]] to God and to the Lamb; no lie is found in their mouths. They are all men, and every one of them survives the wrath of God — which was the purpose of the seal.
+
+Their function is to be the first fruits of the [[Glossary#Millennial Kingdom|Millennial Kingdom]]: preserved through the judgment as witnesses of it, so that a nucleus of Israel stands in the land when the King takes his throne in Jerusalem. The precedent is Ezekiel 9, where the faithful in Jerusalem are marked on the forehead before the executioners go out, and behind that, Israel sheltered in Goshen while the plagues ran their course over Egypt.
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]] — see also [[Chapter 23/iii. Context|Chapter 23 — Context]]*
+
+---
+
 ## Abomination of Desolation
 
 The phrase used in Daniel's prophecy (Daniel 9:27, 11:31, 12:11) and quoted directly by Jesus in Matthew 24:15 to describe a specific act by the [[Glossary#Antichrist|Antichrist]] at the midpoint of the final seven-year period: standing in the rebuilt temple in Jerusalem, ending the sacrificial system, and declaring himself to be God. It is the singular most identifiable event of the end times — the sign Jesus himself points to when his disciples ask how they will know his coming is near.
@@ -17,6 +31,7 @@ One functional prerequisite has not existed since 70 AD: an active sacrificial s
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -131,6 +146,7 @@ The Antichrist is not the same as Satan. He is Satan's instrument — a human be
 *Also relevant: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -191,6 +207,7 @@ A comprehensive framework for understanding reality — including suffering, evi
 A biblical worldview is not simply knowing Bible facts. It is a God-anchored framework robust enough to interpret current events, personal suffering, and the claims of others without depending on outside voices for orientation. It is the single best defense against fear-mongering and spiritual manipulation — because when you know what God has already said, you don't need someone else to tell you how to feel about what's happening.
 
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -203,6 +220,7 @@ Jesus groups four events under this heading: the rise of the [[Glossary#Antichri
 The birth pains are not merely events to endure. They are the conditions under which the church is purified, the gospel reaches the remaining nations, and the world is confronted with a witness it cannot explain. They serve a purpose.
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 ## Book of Daniel
@@ -269,6 +287,18 @@ This framework is the essential background for reading the entire Old Testament.
 
 ---
 
+## Covenant with Death
+
+The phrase Isaiah uses for a security arrangement made with a foreign power in place of trust in God: *"You boast, 'We have entered into a covenant with death, with the realm of the dead we have made an agreement'... Your covenant with death will be annulled"* (Isaiah 28:15, 18).
+
+The pattern behind the phrase recurs across a century and a half of Judahite policy. Facing Assyria, Judah sought Egyptian military backing, which Isaiah condemned and which never materialized. Facing the same threat, Hezekiah opened his treasuries and the house of the Lord to Babylonian envoys — and Babylon returned a century later to take the city and carry the treasures away. In every case, the guarantor eventually became the conqueror.
+
+The term matters eschatologically because the seven-year period opens with a covenant confirmed with many (Daniel 9:27), brought by the [[Glossary#Antichrist|Antichrist]] and offering peace to a region that has never had it. The prophets' verdict on the earlier arrangements is the interpretive key to the last one: a peace purchased from someone other than God is a peace that ends in the destruction of the party who bought it.
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]] — see also [[Chapter 23/iii. Context|Chapter 23 — Context]]*
+
+---
+
 ## Covenant with Many
 
 The treaty described in Daniel 9:27, confirmed for one "seven" (seven years), which begins the seventieth week of the [[Glossary#Seventy Weeks (Seventy Sevens)|seventy weeks]] and, by extension, the tribulation period. Its confirmation triggers the resumption of Daniel's prophetic clock after the [[Glossary#Time of the Gentiles|time of the Gentiles]]; its midpoint is marked by the [[Glossary#Abomination of Desolation|Abomination of Desolation]], when the [[Glossary#Antichrist|Antichrist]] halts the temple sacrifices the covenant's confirmation is understood to make possible.
@@ -303,6 +333,7 @@ In the New Testament, the Day of the Lord is associated with the return of Jesus
 *First introduced: [[i. Today This Scripture Is Fulfilled|Chapter 11 - Today This Scripture Is Fulfilled]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -440,6 +471,19 @@ First fruits giving predates the formal tithe established in the Mosaic Law by c
 
 *First introduced: [[i. The Fall|Chapter 03 - The Fall]]*
 *Also relevant: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]* 
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+
+---
+
+## Four Horsemen of the Apocalypse
+
+The riders released by the first four seals of Revelation 6 — a white horse whose rider carries a bow and a victor's crown and rides out to conquer, a fiery red horse whose rider takes peace from the earth and is given a large sword, a black horse whose rider holds scales over a famine-priced economy, and a pale horse whose rider is named Death with Hades following behind, given power over a fourth of the earth.
+
+The riders are not four different individuals. They are four facets of a single campaign: the [[Glossary#Antichrist|Antichrist]]'s arrival, the war his conquest produces, the scarcity that war produces, and the mass death that results. The rider is nameless in every scene; the only variables are the color of the horse and the effect that rider brings. Daniel supplies no prophetic warrant for multiple significant rulers during this period — the ten kings hand their authority to the little horn and disappear from the narrative, and the false prophet serves the Antichrist rather than rivaling him.
+
+Each rider is *given* what he carries. The passive construction recurs at all four seals, and every one of them rides only after the Lamb breaks the seal and a [[Glossary#Four Living Creatures|living creature]] issues the summons. The horsemen correspond directly to the four birth pains of Matthew 24 — the same sequence in a different symbol system.
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -453,6 +497,19 @@ Both visions end the same way: every human empire is shattered and swept away, w
 
 *First introduced: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. Seventy Sevens|Chapter 16 — Seventy Sevens]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+
+---
+
+## Four Living Creatures
+
+The four beings surrounding the throne in Revelation 4:6–8, described as covered with eyes and having the likeness of a lion, an ox, a man, and an eagle. They are the same creatures Ezekiel sees in his opening vision (Ezekiel 1:4–14) and identifies explicitly as cherubim in Ezekiel 10.
+
+In Revelation 6 they take on a specific function: each of the first four seals is announced by one of the four creatures, who calls out a single word — *Come.* The word is a summons, not a narration. Nothing rides until the Lamb has broken the seal and a creature has called the rider forward.
+
+That detail carries theological weight out of proportion to its length. It establishes that the judgments of Revelation are issued from the throne and executed on authorization, rather than initiated by Satan and countered by God. The catastrophes of the seal sequence arrive on invitation, in an order set in heaven.
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -492,6 +549,7 @@ This also explains why believers are left in the world after coming to faith rat
 *Also relevant: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. The Mystery Gap|Chapter 18 — The Mystery Gap]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -505,6 +563,7 @@ The Assyria/Anatolia identification versus the popular Russia identification (wi
 
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]] — see also [[Chapter 19/iii. Context|Chapter 19 — Context]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -534,6 +593,20 @@ The Great Commission is also the explanation for why God does not take believers
 
 ---
 
+## Great Multitude
+
+The uncountable crowd of Revelation 7:9–17, drawn from every nation, tribe, people, and language, standing before the throne and before the Lamb in white robes and holding palm branches. When an elder asks who they are, the answer is given directly: *"These are they who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb"* (Revelation 7:14).
+
+The multitude is deliberately contrasted with the [[Glossary#144,000|144,000]] immediately preceding it. That group is Israelite, counted precisely, and sealed on the earth. This one is from every nation, uncountable, and standing in heaven.
+
+Two textual details establish where this scene falls in the sequence. The multitude is in heaven, before the throne — so the gathering has already occurred. And they are *wearing* robes and *holding* palm branches, whereas the martyrs of the fifth seal were souls who were *given* robes. A soul cannot wear a garment or hold a branch. Between the fifth seal and this scene, the resurrection has taken place and they have received [[Glossary#Resurrection Body|resurrection bodies]].
+
+This is the confirmation of the timeline: the church is standing in heaven, resurrected, identified by heaven itself as having come out of the [[Glossary#Great Tribulation|great tribulation]] — and all of it before the seventh seal is broken.
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+
+---
+
 ## Great Tribulation
 
 The term used by Jesus in Matthew 24:21 to describe the final three-and-a-half-year period of history that begins at the [[Glossary#Abomination of Desolation|Abomination of Desolation]] — when the [[Glossary#Antichrist|Antichrist]] stands in the rebuilt temple in Jerusalem, declares himself God, and demands worship. The period is also described in Daniel as "a time of distress such as has not happened from the beginning of nations until then" (Daniel 12:1), and in Revelation as the forty-two months during which the beast wages war against the saints (Revelation 13:5–7).
@@ -545,6 +618,31 @@ The author of the great tribulation is the Antichrist, empowered by Satan after 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+
+---
+
+## Great White Throne Judgment
+
+The final judgment described in Revelation 20:11–15, occurring after the [[Glossary#Millennial Kingdom|Millennial Kingdom]] has ended and Satan has been permanently defeated. The dead — great and small — stand before the throne, the books are opened, and everyone whose name is not found in the book of life is thrown into the lake of fire.
+
+Its significance in the eschatological sequence is that it marks the outer boundary of the opportunity to repent. Every human being has until one of two points: their own death, or the Great White Throne Judgment at the end of the thousand years. This is why the Millennial Kingdom is not a waiting room for the already-condemned. Those who enter it still living have a genuine decision in front of them, made under conditions no previous generation has had — watching a righteous King rule the earth in person from Jerusalem.
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+
+---
+
+## Hades
+
+The Greek term the New Testament uses for the realm of the dead, rendering the Hebrew *Sheol*. In Revelation 6:8 Hades follows behind the pale rider named Death — the grave trailing behind the killing, collecting what death produces.
+
+Hades is the consequence of dying without the Lord. In the framework this study uses, Hades, hell, the lake of fire, and the abyss all name the same reality: the place of eternal torment away from God. The vocabulary shifts from passage to passage and the vantage point shifts with it, but the destination is one.
+
+The individual terms do carry distinct usages in the biblical text, and those distinctions are worth knowing. *Sheol* is the Old Testament's general word for the realm of the dead, applied to righteous and wicked alike. *Hades* is its Greek equivalent, and by the first century it clearly carries a punitive dimension for the unrighteous (Luke 16:23). *Gehenna* — the word Jesus uses most often, translated "hell" — takes its name from the Valley of Hinnom outside Jerusalem and refers to final judgment. The *abyss* is a holding place for spiritual beings rather than for human dead. The *lake of fire* appears only in Revelation 19–20, where Revelation 20:14 has death and Hades themselves thrown into it and calls it the second death.
+
+*(See [[Chapter 23/iii. Context|Chapter 23 — Context]] for the full treatment of how these terms are used.)*
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]] — see also [[Chapter 23/iii. Context|Chapter 23 — Context]]*
 
 ---
 
@@ -623,6 +721,7 @@ The same language appears in Daniel 11:40–43 in an eschatological context, des
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -752,6 +851,7 @@ The Millennial Kingdom ends with the brief release of Satan, a final rebellion, 
 *First introduced: [[i. Can These Bones Live|Chapter 13 — Can These Bones Live]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -872,6 +972,18 @@ The Passover also marks the beginning of the Israelite religious calendar — Ex
 
 ---
 
+## Patient Endurance
+
+The disposition Revelation repeatedly calls for in believers living through persecution — rendered from the Greek *hypomonē*, which carries the sense of remaining under a weight rather than escaping it. John identifies himself to the seven churches as a companion in "the suffering and kingdom and patient endurance that are ours in Jesus" (Revelation 1:9), and the phrase recurs at the points of greatest pressure in the book (13:10, 14:12).
+
+The word describes a state of the heart, not gritted teeth. It is possible only when two things are in place: knowing who God is, and knowing what he has planned. Without the first, there is no reason to trust that what is happening is under control. Without the second, there is nothing to wait *for*.
+
+This is why the martyrs under the altar in Revelation 6:9–11 are not given a date. They are given a white robe and told to wait a little longer. The answer to *how long* is not a timestamp; it is the character of the one being asked, and the plan he has already disclosed. It is also the reason the Lord gives his church so much detail about events most of it will not witness from the earth: knowing exactly how he intends to bring justice is what makes waiting for it survivable.
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+
+---
+
 ## Patmos
 
 A small island in the Aegean Sea, off the southeastern coast of present-day Turkey, to which the apostle John was exiled — most likely under the emperor [[Glossary#Domitian|Domitian]] — and where he received the vision recorded in the book of Revelation (Revelation 1:9). John identifies his presence there as being "because of the word of God and the testimony of Jesus," almost certainly connected to a refusal to participate in the emperor worship increasingly demanded during this period.
@@ -910,6 +1022,7 @@ Its practical danger is not only theological. A church that has been taught it w
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -949,6 +1062,7 @@ This is fundamentally incompatible with the Gospel Jesus presented, for two reas
 *First introduced: [[i. Reading the Last Chapter|Chapter 01 - Reading the Last Chapter]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. Not by Human Hands|Chapter 15 — Not by Human Hands]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -976,6 +1090,7 @@ The placement of the rapture within the end-times sequence is not ambiguous in e
 
 *First introduced: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 ### Red Heifer
@@ -1024,6 +1139,7 @@ Paul develops this distinction at length in 1 Corinthians 15, using the image of
 The souls of believers who have died before the resurrection are present with God — conscious, as Revelation 6:9-11 indicates — but not yet in resurrection bodies. The resurrection body is the completion of redemption, not its beginning. The New Testament treats the resurrection as the bodily dimension of the restoration of all things, not merely a spiritual event: the same created, physical world God declared good at the beginning is the world he intends to restore and dwell in permanently.
 
 *First introduced: [[i. The Feasts of the Lord and the Throne of David|Chapter 10 — The Feasts of the Lord and the Throne of David]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -1097,6 +1213,18 @@ The New Testament consistently reads the Servant Songs as fulfilled in Jesus —
 
 ---
 
+## Seven Bowls of Wrath
+
+The final and most concentrated series of judgments in Revelation (chapters 15–16), poured out by seven angels after the sounding of the seventh trumpet. The seventh bowl culminates in the Battle of Armageddon, the destruction of the [[Glossary#Antichrist|Antichrist]], and the end of the seventieth week of Daniel.
+
+The bowls are unambiguously the [[Glossary#Wrath of God|wrath of God]] — poured out directly by God on those who have hardened themselves against him, with no redemptive function for their recipients. The church does not pass through them.
+
+*(The bowl judgments and the Battle of Armageddon will be treated in full when the study reaches those chapters.)*
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+
+---
+
 ## Seven Churches of Asia
 
 The seven congregations named in Revelation 1:11 — Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea — located in the Roman province of Asia, in what is now western Turkey, and addressed by name in Revelation 2–3. Listed in the order they appear, the seven trace a roughly circular route corresponding to an actual Roman road system, the practical circuit a single letter or messenger would follow to reach all seven cities in turn.
@@ -1105,6 +1233,32 @@ Each church is real and historically specific — not a prediction of a future c
 
 *First introduced: [[i. Walking Among the Lampstands|Chapter 20 — Walking Among the Lampstands]]*
 *Also relevant: [[i. To Him Who Overcomes|Chapter 21 — To Him Who Overcomes]]*
+
+---
+
+## Seven Seals
+
+The seven seals securing the scroll of Revelation 5, broken one at a time by the Lamb across Revelation 6 and 8. The seals are not the contents of the scroll but the closure holding it shut; each one broken releases a stage of the events leading to the scroll's full opening.
+
+The seal sequence establishes the chronological spine of Revelation. The first four release the [[Glossary#Four Horsemen of the Apocalypse|four horsemen]] and correspond to the four [[Glossary#Birth Pains (Eschatological)|birth pains]] of Matthew 24, falling in the first half of the seven-year period. The fifth reveals the martyrs of the [[Glossary#Great Tribulation|great tribulation]] under the altar, placing it after the [[Glossary#Abomination of Desolation|Abomination of Desolation]]. The sixth is the darkening of the sun, moon, and stars — the [[Glossary#Day of the Lord|Day of the Lord]] — immediately followed by the appearing of the Son of Man and the gathering of the church. The seventh initiates the [[Glossary#Seven Trumpets|seven trumpets]].
+
+The critical structural observation is what falls *between* the sixth and seventh seals: the sealing of the [[Glossary#144,000|144,000]] and the appearance of the [[Glossary#Great Multitude|great multitude]] in heaven. The church is gathered before the seventh seal is ever broken, which places the [[Glossary#Rapture|rapture]] before the [[Glossary#Wrath of God|wrath of God]] and after the great tribulation has begun.
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
+
+---
+
+## Seven Trumpets
+
+The judgments released by the breaking of the seventh seal (Revelation 8–11), sounded in sequence by seven angels. Together with the [[Glossary#Seven Bowls of Wrath|seven bowls]] they constitute the [[Glossary#Wrath of God|wrath of God]] proper, as distinguished from the [[Glossary#Great Tribulation|great tribulation]] that precedes them.
+
+Their position in the sequence is what matters for the structure of the book: the seventh seal opens the trumpets, and the seventh trumpet opens the bowls. Because the [[Glossary#Great Multitude|great multitude]] is already standing in heaven before the seventh seal is broken, the trumpet judgments fall on an earth from which the church has been removed.
+
+The fifth and sixth trumpets carry an explicit duration — the demonic army released in Revelation 9 is given five months (Revelation 9:5, 9:10). That duration functions as a constraint on any reading that places the return of Christ as late as the seventh trumpet, since the darkened sun, moon, and stars of the sixth seal could not persist across five months with anyone left alive on the earth.
+
+*(The trumpet judgments will be treated in full when the study reaches Revelation 8.)*
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -1143,6 +1297,7 @@ The pillar of cloud and fire that led Israel through the wilderness is an expres
 
 *First introduced: [[i. Then You Will Know|Chapter 09 - Then You Will Know]]*
 *Also relevant: [[i. Matthew 24|Chapter 14 — Matthew 24]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
@@ -1394,6 +1549,18 @@ The vision is immediately followed by the prophecy of the two sticks (Ezekiel 37
 
 ---
 
+## Victor's Crown (Stephanos)
+
+The Greek *stephanos* — a wreath awarded to the winner of an athletic contest, as distinct from the *diadēma*, the royal band worn by a sovereign. The distinction is consistent in Revelation: the dragon wears seven *diadēmata* (12:3), the beast from the sea wears ten (13:1), and Christ returning wears many (19:12), while the rider of the first seal is given a *stephanos* (6:2).
+
+The rider on the white horse is therefore not presented as a hereditary monarch taking his throne. He is presented as a champion — a figure whose claim rests on having accomplished something no one before him could. That is a precise fit for a man arriving to broker a peace agreement in a region where every prior attempt has failed.
+
+The wreath's drift from a symbol of victory to a symbol of peace is part of what the imagery exploits. Nothing in the crown itself signals danger; it signals that this man won, and a watching world reads winning as rescue.
+
+*First introduced: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]] — see also [[Chapter 23/iii. Context|Chapter 23 — Context]]*
+
+---
+
 ## Watchers
 
 The class of angelic beings described in Genesis 6:1–4 who descended from their assigned domain, took human women without consent, and fathered the Nephilim. The term comes from the Aramaic *'iyr* (used in Daniel 4:13, 17, 23 for heavenly beings who deliver God's decrees) and became the standard designation for these angels in Second Temple Jewish literature, including 1 Enoch, Jubilees, and the Damascus Document.
@@ -1420,6 +1587,7 @@ Paul's statement in 1 Thessalonians 5:9 — "God did not appoint us to suffer wr
 
 *First introduced: [[i. The War Behind the War|Chapter 17 — The War Behind the War]]*
 *Also relevant: [[i. No Wiggle Room|Chapter 19 — No Wiggle Room]]*
+*Also relevant: [[i. How Long, Sovereign Lord|Chapter 23 — How Long, Sovereign Lord]]*
 
 ---
 
